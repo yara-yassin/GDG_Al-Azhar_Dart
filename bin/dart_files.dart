@@ -1,5 +1,5 @@
-import 'package:dart_files/section2.dart';
+import 'package:dart_files/section3.dart';
 
 void main() {
-  section2();
+  section3();
 }
