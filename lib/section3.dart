@@ -275,3 +275,10 @@ bool isPalindrome(String str) {
   }
   return true;
 }
+
+//another solution for question 6:
+
+bool isPalindrome2(String str) {
+  str = str.toLowerCase().trim();
+  return str == str.split('').reversed.join('');
+}
