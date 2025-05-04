@@ -1,5 +1,5 @@
-import 'package:dart_files/section5.dart';
+import 'package:dart_files/acync.dart';
 
 void main() {
-  section5();
+  asynchronous();
 }
